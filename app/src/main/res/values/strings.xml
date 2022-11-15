@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="operand_msg_1">Operand 1</string>
+    <string name="operand_msg_2">Operand 2</string>
+    <string name="number_hint_1">15</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="devision">/</string>
+    <string name="result_msg">Résultat</string>
+</resources>
